@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/bin/Debug/net8.0/Soru_08
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/bin/Debug/net8.0/Soru_08.deps.json
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/bin/Debug/net8.0/Soru_08.runtimeconfig.json
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/bin/Debug/net8.0/Soru_08.dll
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/bin/Debug/net8.0/Soru_08.pdb
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.AssemblyInfo.cs
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.dll
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/refint/Soru_08.dll
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.pdb
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/Soru_08.genruntimeconfig.cache
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_08/obj/Debug/net8.0/ref/Soru_08.dll

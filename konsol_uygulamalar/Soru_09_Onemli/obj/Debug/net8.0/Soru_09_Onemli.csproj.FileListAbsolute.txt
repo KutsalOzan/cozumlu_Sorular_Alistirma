@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/bin/Debug/net8.0/Soru_09_Onemli
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/bin/Debug/net8.0/Soru_09_Onemli.deps.json
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/bin/Debug/net8.0/Soru_09_Onemli.runtimeconfig.json
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/bin/Debug/net8.0/Soru_09_Onemli.dll
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/bin/Debug/net8.0/Soru_09_Onemli.pdb
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.AssemblyInfo.cs
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.dll
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/refint/Soru_09_Onemli.dll
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.pdb
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/Soru_09_Onemli.genruntimeconfig.cache
+/Users/macbookpro/Documents/GitHub/CozumluSorular/cozumlu_Week02/Soru_09_Onemli/obj/Debug/net8.0/ref/Soru_09_Onemli.dll
